@@ -1,0 +1,1 @@
+This Android application is developed using Kotlin and XML, featuring user authentication, a secure real-time database, and end-to-end encryption for safe communication. The app ensures that user conversations remain private, protected, and accessible only to the intended recipients.
