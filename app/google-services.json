@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "427922902981",
+    "project_id": "cheekypoo-messenger",
+    "storage_bucket": "cheekypoo-messenger.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427922902981:android:51fda97f6cca2f69ac45ac",
+        "android_client_info": {
+          "package_name": "com.example.cheekypoomessenger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC49uSK5EeTEQnY3YIlsbiUgViR5efTxZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
